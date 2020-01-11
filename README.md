@@ -1,2 +1,2 @@
 # ams
-image denoising using autoencoders
+8. Odpravljanje ˇsuma v MR slikah z avtoenkoderji (I,V)
