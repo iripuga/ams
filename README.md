@@ -1,2 +1,2 @@
 # ams
-8. Odpravljanje ˇsuma v MR slikah z avtoenkoderji (I,V)
+8. Odpravljanje suma v MR slikah z avtoenkoderji (I,V)
