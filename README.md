@@ -1,5 +1,5 @@
 # ams
-Odpravljanje suma v MR slikah z avtoenkoderji
+Analiza Medicinskih Slik - Odpravljanje suma v MR slikah z avtoenkoderji
 
 
 1. V Google Drive je potrebno v direktorij /Colab\ Notebooks naložiti skripto main.ipynb
